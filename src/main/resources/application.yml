@@ -1,0 +1,9 @@
+server:
+  port: 10100
+  servlet:
+    context-path: /api-demo
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 49155
